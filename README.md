@@ -6,6 +6,10 @@
 - https://tryhackme.com/r/room/linuxstrengthtraining
 - https://tryhackme.com/r/room/linuxmodules
 
+
+## **Windows**
+- https://tryhackme.com/module/hacking-windows-1
+- 
 ### **Networking** 
 
 - https://academy.hackthebox.com/module/34/section/301
@@ -21,8 +25,12 @@
 
 These paths will help you alot in your eJPTv2 exam and I would recommend this before or after INE's course tho I don't like INE's course because most of the things will not come in the exam or it will be too easy for the exam. I don't recommend just studying from INE.
 
+#### **Post-Exploitation**
 
-##### **Practical**
+- https://tryhackme.com/module/privilege-escalation
+- https://tryhackme.com/module/host-evasions
+
+#### **Practical**
 
 - https://tryhackme.com/r/room/blue
 - https://tryhackme.com/r/room/mrrobot
@@ -30,3 +38,18 @@ These paths will help you alot in your eJPTv2 exam and I would recommend this be
 - https://tryhackme.com/r/room/picklerick
 - https://tryhackme.com/r/room/rrootme
 - https://tryhackme.com/r/room/basicpentestingjt
+
+#### ** CTFS to make sure **
+- https://tryhackme.com/r/room/steelmountain
+- https://tryhackme.com/r/room/alfred
+- https://tryhackme.com/r/room/hackpark
+- https://tryhackme.com/r/room/skynet
+- https://tryhackme.com/r/room/dailybugle
+- https://tryhackme.com/r/room/relevant
+- https://tryhackme.com/r/room/internal
+
+# ** My Cert **
+![ejpt](https://github.com/user-attachments/assets/25f1c191-95ca-462b-bb3b-58cbd1f6bcc0)
+
+
+
