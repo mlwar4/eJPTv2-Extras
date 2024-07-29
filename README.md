@@ -1,4 +1,4 @@
-# Extras that will help you in your eJPTv2 Exam
+![comptiapentest](https://github.com/user-attachments/assets/838a4de8-17b0-4cc9-a532-dc03f65219e4)![comptiapentest](https://github.com/user-attachments/assets/502ac47a-782d-4b30-863b-cf15aee291b4)# Extras that will help you in your eJPTv2 Exam
 
 
 ## **Linux** 
@@ -18,11 +18,14 @@
 
 #### **Pentesting** 
 
-![Uploading comptiapentest.svg…]()
 
-![Uploading jrpenetrationtester.svg…]()
+![Uploading comptiapentest.png…]()
 
-![Uploading redteaming.svg…]()
+
+![jrpenetrationtester](https://github.com/user-attachments/assets/1ebc00e5-12f9-472f-8208-0ba6ce40f9fb)
+
+![redteaming](https://github.com/user-attachments/assets/a442df6e-7329-4629-b7c4-f9b3b92bbdf2)
+
 
 
 These paths will help you alot in your eJPTv2 exam and I would recommend this before or after INE's course tho I don't like INE's course because most of the things will not come in the exam or it will be too easy for the exam. I don't recommend just studying from INE.
