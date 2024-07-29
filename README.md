@@ -14,9 +14,9 @@
 
 #### **Pentesting** 
 
-![[jrpentstthn.png]]
+[[jrpentstthn.png]]
 
-![[readteamuiun.png]]
+[[readteamuiun.png]]
 
 
 ##### **Practical**
