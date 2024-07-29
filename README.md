@@ -14,9 +14,10 @@
 
 #### **Pentesting** 
 
-[[jrpentstthn.png]]
 
-[[readteamuiun.png]]
+![jrpentstthn](https://github.com/user-attachments/assets/6dabc780-931b-405d-a311-785added959b)
+
+![readteamuiun](https://github.com/user-attachments/assets/c857497c-7290-4cbb-9ea0-45b75e214cc2)
 
 
 ##### **Practical**
