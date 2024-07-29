@@ -14,10 +14,8 @@
 
 #### **Pentesting** 
 
-HTB Job Path
 
-THM pentesting tools
-![[Pasted image 20240507171257.png]]
+
 
 ##### **Practical**
 
