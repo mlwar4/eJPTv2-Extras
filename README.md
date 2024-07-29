@@ -14,7 +14,9 @@
 
 #### **Pentesting** 
 
+jrpentstthn.png
 
+readteamuiun.png
 
 
 ##### **Practical**
