@@ -37,6 +37,7 @@ I would recommend tryhackme's Comptia Pentest + path would also help you alot .
 #### **Practical Training**
 
 - https://tryhackme.com/r/room/blue
+- https://tryhackme.com/r/room/ice
 - https://tryhackme.com/r/room/mrrobot
 - https://tryhackme.com/r/room/easyctf
 - https://tryhackme.com/r/room/picklerick
