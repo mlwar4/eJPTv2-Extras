@@ -48,7 +48,7 @@ These paths will help you alot in your eJPTv2 exam and I would recommend this be
 - https://tryhackme.com/r/room/relevant
 - https://tryhackme.com/r/room/internal
 
-#### ** My Cert **
+#### **My Cert**
 ![ejpt](https://github.com/user-attachments/assets/25f1c191-95ca-462b-bb3b-58cbd1f6bcc0)
 
 
