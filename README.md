@@ -27,7 +27,7 @@
 
 
 
-These paths will help you alot in your eJPTv2 exam and I would recommend this before or after INE's course tho I don't like INE's course. I don't recommend just studying from INE.
+These paths will help you alot in your eJPTv2 exam and I would recommend this before or after INE's course. I don't prefer/like just studying from INE.
 I would recommend tryhackme's Comptia Pentest + path would also help you alot .
 #### **Post-Exploitation**
 
